@@ -1,87 +1,112 @@
-# 🧱 Brick 1 — Product Description (Copie Express)
+# 🧱 Brick 1 — Product Description (Copie Express) — **VERSION v2 BREVET/BAC**
 
 ## 🎯 Le Produit
 
-**Copie Express** est un service d'assistance à la correction pour enseignants français. Le prof scanne ses copies (évaluations nationales ou copies classiques), et le système extrait automatiquement les réponses et génère un fichier prêt à importer dans SACoche, Pronote ou Excel.
+**Copie Express** est un service d'assistance à la correction pour enseignants français du secondaire (collège + lycée). Le prof scanne ses copies de brevet blanc, bac blanc, ou contrôle au fil de l'année. Le service détecte chaque réponse, chaque méthode de résolution, et remplit le fichier SACoche/Pronote/Excel. Le prof valide 5 copies au hasard en 30 secondes. Il exporte. Terminé.
 
-**Promesse principale** : récupérer **3 heures par session d'éval nationale** et **2 heures par session de copies classiques**.
+**Cible principale** : Profs de **mathématiques, physique, SVT, technologie** en collège et lycée.
 
----
-
-## 💡 Ce que ça fait concrètement
-
-1. **Upload** : Le prof photographie ou scanne ses copies (PDF, photos JPG/PNG)
-2. **Extraction automatique** : OCR Mistral + LLM détectent les réponses cochées/écrites
-3. **Validation rapide** : Le prof voit un aperçu, corrige en 30 secondes si besoin
-4. **Export** : Téléchargement au format SACoche / Pronote / Excel
-5. **Gain de temps** : 3h de saisie → 30 secondes
+**Cible secondaire** : Profs de français, histoire, langues (éval à réponse unique).
 
 ---
 
-## 💰 Tarification (mise à jour 30/07/2026)
+## 💎 Positionnement
 
-| Offre | Prix | Cible |
-|-------|------|-------|
-| **Découverte** | 10€/mois | Prof qui veut tester |
-| **Standard** | 10€/mois | Prof régulier |
-| **Annuel** | 99€/an | Prof engagé (économie de 21€) |
-| **Essai** | 10 copies gratuites | Tout nouveau prof |
+**Copie Express ne corrige pas à ta place. Il remplit SACoche à ta place.**
+
+Le prof reste maître. C'est lui qui clique "valider" en dernier. Mais c'est lui qui ne passe plus 3 heures à cliquer 8 100 fois.
 
 ---
 
-## 🎯 Pour qui c'est FAIT
+## 🎯 Promesse chiffrée
 
-**Sophie, 38 ans, prof de français en lycée**
-- En couple avec enfants
-- Salaire : 2000-2400€ net/mois
-- Prête à payer pour récupérer ses soirées et weekends
-- Décide vite quand convaincue par les pairs
+| Type d'éval | Copies | Temps actuel | Avec Copie Express |
+|-------------|--------|--------------|---------------------|
+| Brevet blanc | 90 copies | 3 heures | 30 secondes |
+| Bac blanc | 92-180 copies | 4-6 heures | 30 secondes |
+| Contrôle de maths au fil de l'année | 30 copies | 1 heure | 30 secondes |
+| Éval nationale CP/CE1 | 25 copies | 30 minutes | 15 secondes |
 
----
-
-## 🎯 Pour qui c'est PAS FAIT
-
-- ❌ Profs qui n'utilisent jamais SACoche/Pronote (rare)
-- ❌ Profs qui font du QCM très complexe (maths spé, etc.)
-- ❌ Profs qui veulent une correction qualitative subjective (commentaire littéraire détaillé)
+**Gain moyen** : 90% du temps de saisie administrative
 
 ---
 
-## ⚙️ Stack technique
+## 💰 Pricing (3 tiers)
 
-- **Frontend** : Next.js 14 + Tailwind CSS + Stripe Checkout
-- **Backend** : Node.js + Express + BullMQ (file d'attente)
+### Tier 1 — Mensuel
+- **10€/mois** (sans engagement)
+- Copies illimitées
+- Pour les profs qui veulent tester sans risque
+
+### Tier 2 — Annuel ⭐ Populaire
+- **99€/an** (économies 21€ vs mensuel)
+- Tout du tier 1
+- Détection multi-méthodes (maths/physique)
+- Support prioritaire
+- Garantie satisfait ou remboursé 30j
+
+### Tier 3 — Expert Bac/Brevet (V2, septembre 2026)
+- **149€/an**
+- Tout du tier 2
+- Analyse multi-méthodes avancée
+- Détection automatique de l'approche mathématique (discriminant, factorisation, racines...)
+- Grilles de correction personnalisées
+- Support téléphonique dédié
+- Accès anticipé 1 mois avant lancement
+
+---
+
+## 🧠 Stack technique
+
+- **Frontend** : Next.js 14, shadcn/ui, Tailwind
+- **Backend** : Node.js, Express
+- **OCR** : Mistral OCR (précision manuscrite française)
+- **Extraction structurée** : LLM (multi-méthodes)
+- **Export** : SACoche CSV, Pronote XLS, Excel
+- **Auth** : JWT + email magic link
 - **DB** : PostgreSQL
-- **IA** : Mistral OCR + GPT-4o-mini
-- **Storage** : S3-compatible
+- **Paiement** : Stripe (subscriptions)
 
-**Coût technique par copie** : ~0.024€ (marge 97.6% à 1€/copie, marge 99.76% à 10€/mois pour 50 copies)
-
----
-
-## 🚀 Statut
-
-- ✅ Concept validé
-- ✅ Pricing validé (10€/mois)
-- ✅ Avatar identifié (Sophie 38 ans)
-- ⏳ MVP à coder (Semaine 2)
-- ⏳ Landing page à faire (Semaine 3)
-- ⏳ Lancement beta (Semaine 4)
+**Coût marginal par copie** : ~0,024€ (OCR + LLM)
+**Coût marginal annuel pour 500 copies** : 12€ → marge 95%
 
 ---
 
-## 📊 Projections financières (mises à jour 30/07/2026)
+## 📊 Métriques de succès
 
-| Horizon | Clients | CA | Marge (97%) |
-|---------|---------|----|----|
-| **Année 1** | 50 profs × 10€/mois | 6 000€/an | 5 820€/an |
-| **Année 2** | 200 profs × 10€/mois | 24 000€/an | 23 280€/an |
-| **Année 3** | 500 profs × 10€/mois | 60 000€/an | 58 200€/an |
+### V1 (MVP, dans 4 semaines)
+- 100 profs en beta privée (cibles maths/phys/SVT)
+- 30 conversions payantes (taux 30%)
+- Panier moyen : 99€
+
+### V2 (dans 6 mois)
+- 1 000 profs payants
+- 100 conversions Expert (taux 10%)
+- ARR : 100 000€
+
+### V3 (dans 12 mois)
+- 10 000 profs payants
+- ARR : 1M€
 
 ---
 
-## 🛡 Conformité
+## 🎯 Différenciateurs vs concurrence
 
-- RGPD : accord de confidentialité prof + suppression des copies après 30 jours
-- Positionnement : "assistant de saisie" (le prof reste décisionnaire final)
-- Pas de certification Éducation Nationale requise (service B2B)
+1. **Multi-méthodes** : seul outil qui détecte la méthode de résolution (maths/physique)
+2. **Ciblage brevet/bac** : positionnement clair vs "OCR généraliste"
+3. **Tarification simple** : 99€/an vs 0,10€/copie (prévisible)
+4. **Validation finale prof** : le prof reste maître, le service remplit juste
+5. **Saisonnalité alignée** : marketing ciblé sur les pics brevet/bac
+
+---
+
+## ✅ Anti-patterns à éviter
+
+- ❌ Pas de mention "IA" en titre/headline (peur du remplacement)
+- ❌ Pas de mention "OCR" / "GPT" / "Mistral" dans le copy public
+- ❌ Pas de "boostez vos performances" (langage startup)
+- ❌ Pas de "révolutionnaire" / "game-changer"
+- ✅ Vocabulaire orienté **prof** : "brevet blanc", "SACoche", "méthode", "corriger"
+- ✅ Émotionnel concret : enfants, match, weekend, couple
+- ✅ Ciblage explicite : maths/phys/SVT collège/lycée
+- ✅ Cœur de métier : "Tu es prof. Pas une machine à cliquer."

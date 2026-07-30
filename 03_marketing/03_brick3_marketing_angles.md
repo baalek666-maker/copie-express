@@ -1,153 +1,155 @@
-# 🧱 Brick 3 — Marketing Angles (Copie Express)
+# 🧱 Brick 3 — Marketing Angles (Copie Express) — **VERSION v2 BREVET/BAC**
 
 ## 🎯 Angle 1 — PRÉDÉFINI (à utiliser en priorité)
 
-### **"Rends tes soirées à tes enfants"**
+### **"Brevet blanc / Bac blanc, sauvé en 30 secondes"**
 
-**Pain addressé** : Douleur #1 — Sophie passe ses soirées à corriger au lieu de voir ses enfants
+**Pain addressé** : Douleur #1 — Marc passe 3h/soir pendant 1 semaine à cliquer pour son brevet blanc de 90 copies.
 
-**Promesse** : "Récupère 3h par session d'éval nationale pour être avec tes enfants au lieu de cliquer"
+**Promesse** : Photographie ta pile. 30 secondes plus tard, ton fichier SACoche est prêt. Tu fermes le PC. Tu vas au tennis.
 
-**Preuve** : Témoignages de profs qui disent "j'ai pu aller au match de foot de mon fils mardi soir"
+**Headline type** : "Brevet blanc. 90 copies. Terminé."
 
-**CTA** : "Essaie 10 copies gratuites, sans CB"
+**Preuve** : Mockup dashboard avec "90 copies / 30s / 3 méthodes détectées"
 
-**Pourquoi ça marche** :
-- Émotion pure (famille > tout)
-- Universel (toutes les profs en couple avec enfants)
-- Pas de jargon tech
-- Frame la dépense comme un investissement famille
+**CTA** : Essaie sur 10 copies gratuites
 
----
-
-## 🎯 Angle 2 — PRÉDÉFINI
-
-### **"Les évaluations nationales en 30 secondes, pas en 3 heures"**
-
-**Pain addressé** : Douleur #2 — la saisie administrative des évaluations nationales
-
-**Promesse** : "Tu scannes tes 90 copies d'éval CM2, je remplis SACoche à ta place"
-
-**Preuve** : Démo avant/après en vidéo
-
-**CTA** : "Teste sur tes prochaines éval, sans engagement"
-
-**Pourquoi ça marche** :
-- Très spécifique = rassure (on voit exactement ce qu'on achète)
-- ROI clair et chiffrable
-- Évite le flou IA
+**À utiliser en priorité sur :**
+- Facebook Ads (ciblage profs maths collège)
+- TikTok
+- Cold email (Email 3)
 
 ---
 
-## 🎯 Angle 3 — PRÉDÉFINI
+## 🎯 Angle 2 — VIE DE FAMILLE (secondaire prioritaire)
 
-### **"Marre de corriger le weekend ? Garde-le pour toi."**
+### **"Tu rates le match de ton fils"**
 
-**Pain addressé** : Douleur #1 + #3 — récupération du weekend
+**Pain addressé** : Douleur #2 — Marc rate les moments importants de sa famille à cause des clics SACoche.
 
-**Promesse** : "Je m'occupe de la saisie, tu profites de ton samedi"
+**Promesse** : Tu photographies ta pile vendredi soir. Tu fermes l'ordi. Samedi, tu vas au match. Tes enfants te reconnaissent.
 
-**Preuve** : Témoignage "Pour la première fois en 8 ans, j'ai fait un brunch dimanche"
+**Headline type** : "Tu rates le match de ton fils."
 
-**CTA** : "Essaie ce weekend, sans CB"
+**Preuve** : Témoignage de Marc ("ma femme m'a dit : t'es redevenu normal")
 
-**Pourquoi ça marche** :
-- Aspirationnel (weekend = luxe pour les profs)
-- Concret (samedi/dimanche)
-- Légitime (le prof a VRAIMENT besoin de repos)
+**CTA** : Teste sur 10 copies gratuites
 
----
-
-## 🎯 Angle 4 — SECONDAIRE (pour Marc, persona technique)
-
-### **"OCR Mistral + LLM : 99% de fiabilité sur les QCM"**
-
-**Pain addressé** : peur technique de Marc (fiable ? précis ?)
-
-**Promesse** : "Test sur 1000 copies réelles : 99.2% de précision sur QCM, validation humaine en 30 sec"
-
-**Preuve** : Métriques techniques, capture d'écran du dashboard
-
-**CTA** : "Test sur tes copies"
-
-**Pourquoi ça marche** :
-- Adresse la vraie peur (faux positifs)
-- Démontre le sérieux technique
-- Idéal pour les profs de maths/sciences
+**À utiliser en priorité sur :**
+- Meta Ads (lookalike audience)
+- Cold email (Email 2)
 
 ---
 
-## 🎯 Angle 5 — SECONDAIRE (objection prix)
+## 🎯 Angle 3 — TECHNIQUE / MULTI-MÉTHODES (différenciant)
 
-### **"1 café par jour pour récupérer tes soirées"**
+### **"L'outil qui comprend tes maths"**
 
-**Pain addressé** : Objection #4 — "C'est trop cher"
+**Pain addressé** : Douleur #3 — Les profs de maths ont un problème spécifique : les élèves utilisent 3-4 méthodes différentes. L'OCR classique sait pas gérer.
 
-**Promesse** : "10€/mois = 0.33€/jour = 1 café. Et tu récupères 3h par session"
+**Promesse** : Copie Express détecte la méthode de résolution de chaque élève. Tu valides en 1 clic.
 
-**Preuve** : Calcul ROI : "Si tu gagnes 3h × 4 sessions/an = 12h/an. Ça fait 0.83€/h, soit moins qu'un café"
+**Headline type** : "3 méthodes. 1 problème. 0 stress."
 
-**CTA** : "10€/mois, résiliable à tout moment"
+**Preuve** : Mockup comparant 3 copies d'élèves utilisant 3 méthodes différentes pour x² - 4x + 3 = 0
 
-**Pourquoi ça marche** :
-- Re-frame le prix (café > dépense technique)
-- Montre le ROI réel
-- Enlève la friction (résiliable)
+**CTA** : Voir la démo multi-méthodes
 
----
-
-## 🎯 Angle 6 — SECONDAIRE (objection temps d'apprentissage)
-
-### **"Setup en 5 minutes, pas de formation"**
-
-**Pain addressé** : Objection #1 — "Ça va me demander du temps pour apprendre"
-
-**Promesse** : "Tu uploades tes copies, tu valides, c'est fait. Pas de tuto de 2h"
-
-**Preuve** : Vidéo de 90 secondes montrant le setup
-
-**CTA** : "Essaie maintenant, setup en 5 min"
+**À utiliser en priorité sur :**
+- TikTok (Script 2)
+- LinkedIn (posts pédagogie)
+- Email (Email 4)
 
 ---
 
-## 🎯 Angle 7 — SECONDAIRE (peur du remplacement)
+## 🎯 Angle 4 — COEUR DE MÉTIER (émotionnel identité)
 
-### **"Tu gardes le contrôle, je remplis juste les cases"**
+### **"Tu es prof. Pas secrétaire."**
 
-**Pain addressé** : Objection #3 — "Je préfère faire les choses moi-même"
+**Pain addressé** : Douleur #4 — Marc a choisi ce métier pour enseigner, pas pour cliquer.
 
-**Promesse** : "Tu valides chaque copie en 30 secondes, la note finale c'est toi qui la décides"
+**Promesse** : Tu retrouves ton cœur de métier. Tu prépares tes vrais cours. Tu vois tes élèves progresser.
 
-**Preuve** : Capture d'écran de l'interface avec "Valider" en gros
+**Headline type** : "Tu es prof. Pas secrétaire."
 
-**CTA** : "Teste sans risque, tu reprends le contrôle si tu veux"
+**Preuve** : Témoignage "Mon DAC m'a demandé mon secret"
 
----
+**CTA** : Retrouve ton métier
 
-## 📊 Matrice de mapping (angle × barrière)
-
-| Angle | Barrière adressée | Persona prioritaire |
-|-------|-------------------|---------------------|
-| 1. Rend tes soirées | Douleur #1 (vie perso) | Sophie (80%) |
-| 2. Éval en 30 sec | Douleur #2 (saisie admin) | Sophie + Marc (50/50) |
-| 3. Marre du weekend | Douleur #1 + #3 | Sophie (70%) |
-| 4. OCR Mistral | Peur technique | Marc (60%) |
-| 5. 1 café/jour | Objection prix | Sophie réfractaire (50%) |
-| 6. Setup 5 min | Objection temps | Tous (70%) |
-| 7. Tu gardes le contrôle | Peur remplacement | Sophie méfiante (40%) |
+**À utiliser en priorité sur :**
+- Cold email (Email 4)
+- LP Hero (sous-headline)
+- TikTok (Script 10)
 
 ---
 
-## 🎯 Stratégie de lancement
+## 🎯 Angle 5 — ÉCONOMIQUE / ROI (rationnel)
 
-**Phase 1 — Acquisition (Angles 1, 2, 3)**
-- Posts FB avec angle famille + weekend
-- Reels Instagram "POV : tu dois cliquer 90 fois pour rentrer les notes"
+### **"99€/an. 0,27€/jour. Moins cher qu'un restau."**
 
-**Phase 2 — Conversion (Angles 5, 6, 7)**
-- Landing page avec FAQ prix/setup/contrôle
-- Emails de nurture pour les hésitants
+**Pain addressé** : Objection prix — 99€ c'est cher.
 
-**Phase 3 — Scale (Angle 4)**
-- Ads ciblées "profs de maths/sciences"
-- Démonstration technique
+**Promesse** : Pour économiser 30-50h par an. À raison de 3,30€/h de gain, c'est imbattable.
+
+**Headline type** : "99€/an. 0,27€/jour."
+
+**Preuve** : Calcul ROI "12h sauvées / 99€ = 8,25€/h de salaire sauvé"
+
+**CTA** : Voir le calcul complet
+
+**À utiliser en priorité sur :**
+- LP Section pricing
+- FAQ
+- Email (Email 5)
+
+---
+
+## 🎯 Angle 6 — URGEANCE SAISONNIÈRE (timing)
+
+### **"Ton brevet blanc est dans combien de temps ?"**
+
+**Pain addressé** : Délai de décision — le prof repousse à plus tard.
+
+**Promesse** : Si t'es à 3 semaines du brevet blanc, c'est maintenant que tu peux décider.
+
+**Headline type** : "Brevet blanc dans 3 semaines. T'es prêt ?"
+
+**Preuve** : Calendrier des brevets blancs par académie
+
+**CTA** : Liste d'attente pour ton académie
+
+**À utiliser en priorité sur :**
+- Email (Email 5)
+- Facebook Ads (ciblage par académie, timing brevet)
+
+---
+
+## 📊 Matrice de mapping Angle × Persona × Douleur
+
+| Angle | Marc (maths collège) | Sylvie (phys lycée) | Céline (SVT collège) |
+|-------|----------------------|---------------------|---------------------|
+| **1. Brevet blanc sauvé** | ⭐⭐⭐ Critique | ⭐⭐ Bac blanc | ⭐⭐ Brevet SVT |
+| **2. Vie de famille** | ⭐⭐⭐ Enfants, match | ⭐⭐⭐ Fils 5 ans | ⭐ Couple |
+| **3. Multi-méthodes** | ⭐⭐⭐ Maths critiques | ⭐⭐⭐ Physique | ⭐ QCM + schémas |
+| **4. Cœur de métier** | ⭐⭐⭐ Identité | ⭐⭐ Identité | ⭐⭐ Identité |
+| **5. ROI** | ⭐⭐ Rationnel | ⭐⭐ Rationnel | ⭐⭐ Rationnel |
+| **6. Urgence** | ⭐⭐⭐ Brevet mars | ⭐⭐⭐ Bac avril | ⭐⭐ Brevet mars |
+
+---
+
+## 🎯 Recommandation de déploiement (par priorité)
+
+1. **Phase 1 (mois 1)** : Angle 1 + Angle 4 (piliers émotionnels)
+2. **Phase 2 (mois 2)** : Angle 2 + Angle 3 (preuve sociale + différenciant)
+3. **Phase 3 (mois 3)** : Angle 5 (déclinaison rationnelle pour les sceptiques)
+4. **Phase 4 (saison brevet)** : Angle 6 (urgence saisonnière)
+
+---
+
+## ✅ Anti-patterns à éviter
+
+- ❌ Ciblage "tous les profs" → "profs maths/phys/SVT"
+- ❌ "Tu es épuisé(e)" → "Ton brevet blanc est dans combien de temps ?"
+- ❌ "Boost tes performances" → "Brevet blanc sauvé en 30 sec"
+- ❌ Mention "IA" / "OCR" / "GPT" → "Le service détecte"
+- ❌ Positionnement "outil IA" → "assistant de saisie"

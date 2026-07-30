@@ -1,100 +1,171 @@
-# 🧱 Brick 2 — Consolidated Persona (Copie Express)
+# 🧱 Brick 2 — Consolidated Persona (Copie Express) — **VERSION v2 BREVET/BAC**
 
-## 👤 Persona Principale
+## 👤 Persona Principale (80% du focus)
 
-### **Sophie, 38 ans, prof de français en lycée**
+### **Marc, 42 ans, prof de maths en collège à Lyon**
 
 **Démographie :**
-- Femme (75% du corps enseignant français)
-- 35-50 ans
-- En couple, 1-2 enfants (6-14 ans)
-- Salaire net : 2 000-2 400€/mois
-- 12-18 ans d'ancienneté
-- Habite en zone urbaine ou périurbaine
+- Homme (60% des profs de maths)
+- 40-50 ans (tranche d'âge majoritaire)
+- Marié, 2 enfants (8 et 11 ans)
+- Salaire : 2 400-2 800€ net
+- Zone urbaine ou péri-urbaine
+- Collège REP+ ou non (mixte)
 
-**Comportements quotidiens :**
-- Corrige ses copies le soir (après 20h) ou le dimanche
-- Passe 6h/semaine à corriger en moyenne
-- Utilise SACoche ou Pronote quotidiennement
-- Scrolle Instagram et Facebook pendant 15-30 min/jour
-- Suit des comptes de profs (Charivari, Le Café Pédagogique, etc.)
-- Cherche des outils pour se simplifier la vie (sans en parler aux collègues, par peur du jugement)
+**Quotidien :**
+- Cours de maths 18h/semaine (5ème, 4ème, 3ème)
+- Préparation de cours : 2-3h/soir
+- Corrections de copies : 1h/soir en moyenne
+- Brevet blanc : 2 sessions/an (mars + mai)
+- Bac blanc : pas concerné (collège)
 
-**Ses frustrations profondes (par ordre de violence) :**
+**Douleur prioritaire — Douleur #1 :**
+> "Mon brevet blanc de mars, c'est 90 copies. 8 100 clics. 3h de ma vie chaque soir pendant 1 semaine. Ma femme me regarde. Mes enfants me regardent. Je les vois pas."
 
-1. **"Je passe mes soirées à corriger au lieu de voir mes enfants grandir"** — Douleur #1, quasi universelle chez les profs en couple avec enfants
-2. **"Les évaluations nationales me bouffent 3h de clics pour rien"** — Douleur #2, spécifique et très intense
-3. **"Je suis épuisée, je n'ai plus de vie perso"** — Douleur #3, syndrome d'épuisement professionnel
-4. **"Mes élèves ne progressent pas même après mes corrections"** — Douleur #4, frustration pédagogique
-5. **"On me demande toujours plus, mais sans reconnaissance"** — Douleur #5, souffrance administrative
+**Voc authentic (extraits d'interviews profs maths collège) :**
+- "Je clique tellement que je rêve de cases à cocher la nuit"
+- "Mon DAC me demande pourquoi je suis épuisé en mars"
+- "Ma femme m'a dit : tu es redevenu normal quand j'ai utilisé un truc"
+- "Le brevet blanc, c'est 12h de ma vie à cliquer comme un robot"
+- "J'ai raté le match de mon fils à cause du brevet blanc"
 
-**Ses désirs profonds :**
+**Douleurs secondaires (par ordre) :**
+2. Bac blanc (s'il enseigne aussi en lycée)
+3. Contrôles de maths au fil de l'année (1h/soir)
+4. Éval nationales 6ème (si collège REP+)
+5. Copies de DS à la maison
 
-1. **Récupérer ses soirées et weekends** (désir #1, dominant)
-2. **Retrouver du temps pour sa famille** (désir #2)
-3. **Se sentir reconnue dans son travail** (désir #3)
-4. **Voir ses élèves progresser grâce à ses corrections** (désir #4)
-5. **Avoir une vie équilibrée** (désir #5)
+**Désirs prioritaires :**
+1. **Retrouver ses soirées** (et ses enfants, et sa femme)
+2. **Gagner du temps** pour préparer ses vrais cours
+3. **Réussir son brevet blanc** sans y laisser sa santé
+4. **Se recentrer sur son cœur de métier** (enseigner, pas cliquer)
+5. **Préserver son couple** (moins de tension le soir)
 
-**Ses objections à l'achat :**
+**Objections principales (par ordre de fréquence) :**
+1. "Et si l'outil se trompe ? J'ai pas envie de perdre la face devant mes élèves"
+2. "Mes copies sont manuscrites, c'est trop compliqué à scanner"
+3. "Je suis pas à l'aise avec la tech"
+4. "99€/an c'est cher pour 12h d'usage"
+5. "J'ai déjà testé un truc d'OCR et c'était pourri"
 
-1. **"C'est encore un outil qui va me demander du temps pour apprendre"** (objection #1)
-2. **"Et si ça se trompe dans la détection ?"** (objection #2, peur de l'erreur)
-3. **"Je préfère faire les choses moi-même, c'est mon job"** (objection #3, peur du remplacement)
-4. **"C'est combien ? J'ai pas le budget."** (objection #4, prix)
-5. **"Mes collègues vont juger si je délègue la correction"** (objection #5, regard des pairs)
+**Canaux de communication :**
+- Facebook : groupes "Profs de maths collège", "Brevet des collèges", "Enseignants en colère"
+- Twitter : #maths #collège #brevet
+- LinkedIn : posts pédagogiques
+- Forums : Les-mathematiques.net, Mathématiques pédagogiques
+- Bouche à oreille entre collègues
 
-**Ses déclencheurs d'achat (ce qui la fait passer à l'action) :**
+**Vocabulaire à utiliser :**
+- "Brevet blanc", "BAC", "SACoche", "Pronote"
+- "Méthode de résolution", "discriminant", "factorisation"
+- "Copies manuscrites", "8 100 clics"
+- "Élèves", "classe", "cours de maths"
+- "DAC" (directeur administratif et pédagogique)
 
-1. Un témoignage d'une autre prof qui dit "j'ai récupéré mes weekends"
-2. Un post Facebook qui montre qu'elle n'est pas seule à galérer
-3. Un essai gratuit de 10 copies sans engagement
-4. Le fait que ça soit 10€/mois (= 1 café par jour)
-5. La promesse d'un gain de temps MESURABLE (3h par session)
-
-**Voice of Customer (langage exact qu'elle utilise) :**
-
-- "J'en peux plus de ces évaluations nationales à la con"
-- "Encore 3h de clics pour rentrer des QCM dans SACoche"
-- "Je corrige le soir après que les enfants soient couchés"
-- "Le weekend c'est copies, pas repos"
-- "J'ai plus de vie perso à cause de ce métier"
-- "Y'a pas un outil qui fait ça automatiquement ?"
-- "Si ça pouvait scanner mes copies et tout remplir, je prends"
-- "Mais je veux rester maître de la note finale"
-- "10€/mois c'est rien si ça me fait gagner 3h"
-
----
-
-## 👤 Persona Secondaire (20% du marché)
-
-### **Marc, 45 ans, prof de maths en collège**
-
-- Homme, plus technique, moins dans l'émotion
-- Utilise SACoche quotidiennement
-- A déjà testé des outils numériques (Python pour corriger)
-- Préfère le côté "gain de temps" au côté "récupérer ma vie perso"
-- Sera convaincu par la démo technique + ROI mathématique
-- Pricing : moins sensible (10€/mois = OK)
-- Voice of Customer : "Combien de temps ça me fait gagner par session ?" / "C'est fiable sur les QCM ?" / "J'intègre avec Pronote facilement ?"
+**Vocabulaire à éviter :**
+- "IA", "OCR", "GPT", "machine learning"
+- "Boost", "performance", "productivité"
+- "Premium", "VIP", "exclusif"
+- "Révolutionnaire", "game-changer"
 
 ---
 
-## 📊 Insights marketing clés
+## 👥 Persona Secondaire (20% du focus)
 
-**Pour Sophie (cible principale 80%) :**
-- ✅ Marketing émotionnel : "récupère tes soirées", "profite de tes enfants"
-- ✅ Preuve sociale : témoignages d'autres profs (pairs)
-- ✅ Prix : framing "1 café par jour" ou "le prix d'un resto par mois"
-- ✅ Essai gratuit : 10 copies sans CB
+### **Sylvie, 39 ans, prof de physique en lycée à Bordeaux**
 
-**Pour Marc (cible secondaire 20%) :**
-- ✅ Marketing rationnel : "3h par session → 30 sec"
-- ✅ Démonstration technique
-- ✅ Intégration Pronote/SACoche
+**Démographie :**
+- Femme
+- 35-45 ans
+- En couple, 1 enfant (5 ans)
+- Salaire : 2 200-2 600€ net
+- Lycée général ou technologique
 
-**Anti-patterns à éviter :**
-- ❌ "IA", "Intelligence artificielle" dans les titres (peur d'être remplacée)
-- ❌ "Service premium" (trop corporate)
-- ❌ "Gagnez plus d'argent" (les profs ne sont pas là pour ça)
-- ❌ "Boostez vos revenus" (hors sujet)
+**Spécificité :**
+- Bac blanc = use case central (90-180 copies)
+- Physique = encore plus de multi-méthodes (PFD, énergétique, etc.)
+- Classes de 1ère et Terminale (charge mentale élevée)
+
+**Douleur #1 :**
+> "Mon bac blanc de Terminale, c'est 180 copies. 4 jours de clics. Mon fils me regarde partir le matin, je reviens le soir, il est couché."
+
+**Désirs :**
+1. **Finir le bac blanc en 1 journée** au lieu de 4
+2. **Préserver sa vie de mère** (rattraper le temps perdu)
+3. **Avoir des stats fiables** (sans cliquer 180 fois)
+
+---
+
+## 👥 Persona Tertiaire (10% du focus)
+
+### **Céline, 36 ans, prof de SVT en collège à Nantes**
+
+**Démographie :**
+- Femme
+- 30-40 ans
+- En couple sans enfants (charge perso différente)
+- Salaire : 2 100-2 500€ net
+- Collège en zone rurale ou péri-urbaine
+
+**Spécificité :**
+- Brevet blanc SVT (90 copies)
+- Éval à réponse unique (pas de multi-méthodes comme maths)
+- Plus de profils de copies (schémas, dessins, QCM)
+
+**Douleur #1 :**
+> "Mon brevet blanc SVT, c'est 90 copies avec schémas. Mon outil classique sait pas gérer. Je clique 1h par soir pendant 2 semaines."
+
+---
+
+## 📊 Comparaison des 3 personas
+
+| Critère | Marc (maths collège) | Sylvie (phys lycée) | Céline (SVT collège) |
+|---------|----------------------|---------------------|---------------------|
+| **% du focus** | 80% | 12% | 8% |
+| **Volume copies/an** | 180-360 | 180-540 | 180-270 |
+| **Multi-méthodes** | Critique | Critique | Moyen |
+| **Use case central** | Brevet blanc | Bac blanc | Brevet blanc |
+| **Prix acceptable** | 99€/an | 149€/an (Expert) | 99€/an |
+| **Canal principal** | Facebook | LinkedIn | Bouche à oreille |
+
+---
+
+## 🎯 Cibles À NE PAS cibler
+
+### ❌ Profs de primaire
+- **Pourquoi** : 1-2 éval/an (CP rentrée + CP mi-année)
+- **Volume** : trop faible pour 99€/an
+- **Douleur** : heures de saisie déduites des 108h obligatoires
+- **Décision** : exclure du ciblage pub (sauf liste d'attente Expert)
+
+### ❌ Profs de philo / langues / arts plastiques
+- **Pourquoi** : copies à réponse unique = pas de feature multi-méthodes
+- **Douleur** : moins aiguë que maths
+- **Décision** : cibler uniquement via contenu organique, pas via pub payante
+
+### ❌ Profs en prépa / université
+- **Pourquoi** : marché trop niche, autre budget, autres outils
+- **Décision** : hors scope V1/V2
+
+---
+
+## 💡 Insights clés pour le copy
+
+1. **Marc** pense "brevet blanc" en mars et avril, pas toute l'année
+2. **Sylvie** pense "bac blanc" en avril-mai
+3. **Céline** pense "éval nationale" en septembre et janvier
+4. Le **déclencheur d'achat** = la date de brevet/bac blanc qui approche
+5. Le **frein à l'achat** = la peur de la complexité (manuscrit, maths)
+6. Le **catalyseur d'achat** = un témoignage de collègue (bouche à oreille)
+
+---
+
+## ✅ Anti-patterns à éviter
+
+- ❌ "Sophie 38 ans prof français" (ancien persona, trop générique)
+- ❌ Ciblage "tous les profs" (dilue le message)
+- ❌ "Tu es épuisé(e)" (trop vague)
+- ✅ Persona explicite : Marc 42 ans prof maths collège Lyon
+- ✅ Use case explicite : brevet blanc 90 copies
+- ✅ Vocabulaire métier : discriminant, factorisation, DAC

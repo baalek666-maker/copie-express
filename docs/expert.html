@@ -1,0 +1,387 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Copie Express Expert — Analyse multi-méthodes pour le bac officiel</title>
+    <meta name="description" content="L'analyse multi-méthodes pour les profs qui font passer le vrai bac. Disponible septembre 2026. Liste d'attente ouverte.">
+    <meta name="theme-color" content="#ffffff">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Instrument+Serif:ital@0;1&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="noise-overlay"></div>
+    <div class="ambient-glow" style="background: radial-gradient(circle at center, hsl(145 30% 45% / 0.08) 0%, transparent 60%);"></div>
+
+    <!-- ===== NAV ===== -->
+    <nav class="nav">
+        <div class="container nav-container">
+            <a href="index.html" class="nav-logo">
+                <span class="logo-mark">📝</span>
+                <span>Copie Express <span style="color: hsl(var(--sage)); font-size: 12px; font-weight: 600; padding: 2px 8px; background: hsl(145 30% 95%); border-radius: 999px; margin-left: 4px;">EXPERT</span></span>
+            </a>
+            <div class="nav-links">
+                <a href="#mockup">Démo</a>
+                <a href="#features">Features</a>
+                <a href="#waitlist">Liste d'attente</a>
+                <a href="#faq">FAQ</a>
+                <a href="index.html" class="btn btn-secondary btn-sm">← Version standard</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- ===== HERO ===== -->
+    <header class="hero" style="padding: 60px 0 80px;">
+        <div class="container">
+            <div class="hero-badge reveal" style="background: hsl(145 30% 95%); border-color: hsl(145 30% 80%); color: hsl(var(--sage));">
+                <span class="badge-dot" style="background: hsl(var(--sage));"></span>
+                <span>Disponible septembre 2026 — Accès anticipé pour la liste d'attente</span>
+            </div>
+
+            <h1 class="hero-headline reveal">
+                L'analyse multi-méthodes<br>
+                <em style="color: hsl(var(--sage));">pour le vrai bac.</em>
+            </h1>
+
+            <p class="hero-sub reveal">
+                Pour les profs de <strong>maths, physique, SVT, technologie</strong> qui font passer le bac officiel.<br>
+                Le seul service qui détecte la <strong>méthode de résolution</strong> de chaque élève.<br>
+                Tu valides si elle est correcte en 1 clic.
+            </p>
+
+            <div class="hero-actions reveal">
+                <a href="#waitlist" class="btn btn-primary btn-lg" style="background: hsl(var(--sage));">
+                    Rejoindre la liste d'attente (247 profs)
+                    <span class="btn-arrow">→</span>
+                </a>
+                <a href="#mockup" class="btn btn-secondary btn-lg">
+                    Voir la démo
+                </a>
+            </div>
+
+            <div class="hero-trust reveal">
+                <div class="trust-stars">★★★★★</div>
+                <p>"Pour le bac, je veux pas un outil qui se contente de checker les réponses finales. Je veux qu'il comprenne ce que l'élève a fait."</p>
+                <p class="trust-author">— Patrick, prof de maths spé, lycée Hoche</p>
+            </div>
+        </div>
+    </header>
+
+    <!-- ===== MOCKUP MULTI-MÉTHODES ===== -->
+    <section id="mockup" class="hero-visual-section" style="padding: 60px 0;">
+        <div class="container">
+            <div style="text-align: center; margin-bottom: 48px;">
+                <span class="section-label reveal" style="background: hsl(145 30% 95%); color: hsl(var(--sage));">Démonstration</span>
+                <h2 class="section-headline reveal" style="margin: 16px auto 0; max-width: 800px;">
+                    3 méthodes pour le même problème.<br>
+                    <em>Toutes correctes. Toutes détectées.</em>
+                </h2>
+            </div>
+
+            <!-- Mockup window comparant 3 copies -->
+            <div class="reveal" style="max-width: 1100px; margin: 0 auto; background: hsl(var(--bg)); border: 1px solid hsl(var(--border)); border-radius: var(--radius-xl); overflow: hidden; box-shadow: var(--shadow-xl); position: relative;">
+                <div class="mockup-bar">
+                    <span class="mockup-dot red"></span>
+                    <span class="mockup-dot yellow"></span>
+                    <span class="mockup-dot green"></span>
+                    <span class="mockup-url">copie-express.fr/expert/brevet-bac</span>
+                </div>
+
+                <div style="padding: 48px 32px;">
+                    <div style="text-align: center; margin-bottom: 32px; padding-bottom: 24px; border-bottom: 1px solid hsl(var(--border-muted));">
+                        <div style="font-size: 14px; color: hsl(var(--fg-muted)); margin-bottom: 8px; text-transform: uppercase; letter-spacing: 0.05em; font-weight: 600;">Problème posé</div>
+                        <div style="font-size: 28px; font-weight: 600; color: hsl(var(--fg)); letter-spacing: -0.02em;">Résoudre x² - 4x + 3 = 0</div>
+                    </div>
+
+                    <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px;">
+                        <!-- Méthode 1 -->
+                        <div style="padding: 24px; background: hsl(var(--bg-subtle)); border-radius: var(--radius-lg); border: 2px solid hsl(145 30% 80%);">
+                            <div style="display: inline-block; font-size: 11px; font-weight: 600; color: hsl(var(--sage)); background: hsl(145 30% 95%); padding: 4px 10px; border-radius: 999px; margin-bottom: 12px;">✓ MÉTHODE 1</div>
+                            <div style="font-size: 14px; font-weight: 600; color: hsl(var(--fg)); margin-bottom: 8px;">Élève A</div>
+                            <div style="font-family: 'SF Mono', monospace; font-size: 13px; color: hsl(var(--fg-muted)); line-height: 1.6; margin-bottom: 16px;">
+                                Δ = 16 - 12 = 4<br>
+                                x = (4 ± 2) / 2<br>
+                                <strong>x = 1 ou x = 3</strong>
+                            </div>
+                            <div style="font-size: 12px; color: hsl(var(--sage)); font-weight: 600;">→ Discriminant ✓</div>
+                        </div>
+
+                        <!-- Méthode 2 -->
+                        <div style="padding: 24px; background: hsl(var(--bg-subtle)); border-radius: var(--radius-lg); border: 2px solid hsl(145 30% 80%);">
+                            <div style="display: inline-block; font-size: 11px; font-weight: 600; color: hsl(var(--sage)); background: hsl(145 30% 95%); padding: 4px 10px; border-radius: 999px; margin-bottom: 12px;">✓ MÉTHODE 2</div>
+                            <div style="font-size: 14px; font-weight: 600; color: hsl(var(--fg)); margin-bottom: 8px;">Élève B</div>
+                            <div style="font-family: 'SF Mono', monospace; font-size: 13px; color: hsl(var(--fg-muted)); line-height: 1.6; margin-bottom: 16px;">
+                                x² - 4x + 3<br>
+                                = (x - 1)(x - 3)<br>
+                                <strong>x = 1 ou x = 3</strong>
+                            </div>
+                            <div style="font-size: 12px; color: hsl(var(--sage)); font-weight: 600;">→ Factorisation ✓</div>
+                        </div>
+
+                        <!-- Méthode 3 -->
+                        <div style="padding: 24px; background: hsl(var(--bg-subtle)); border-radius: var(--radius-lg); border: 2px solid hsl(145 30% 80%);">
+                            <div style="display: inline-block; font-size: 11px; font-weight: 600; color: hsl(var(--sage)); background: hsl(145 30% 95%); padding: 4px 10px; border-radius: 999px; margin-bottom: 12px;">✓ MÉTHODE 3</div>
+                            <div style="font-size: 14px; font-weight: 600; color: hsl(var(--fg)); margin-bottom: 8px;">Élève C</div>
+                            <div style="font-family: 'SF Mono', monospace; font-size: 13px; color: hsl(var(--fg-muted)); line-height: 1.6; margin-bottom: 16px;">
+                                Test x=1: 1-4+3 = 0 ✓<br>
+                                Test x=3: 9-12+3 = 0 ✓<br>
+                                <strong>x = 1 ou x = 3</strong>
+                            </div>
+                            <div style="font-size: 12px; color: hsl(var(--sage)); font-weight: 600;">→ Racines évidentes ✓</div>
+                        </div>
+                    </div>
+
+                    <div style="text-align: center; margin-top: 32px; padding: 20px; background: hsl(145 30% 95%); border-radius: var(--radius); color: hsl(var(--sage)); font-weight: 600;">
+                        Le service a détecté 3 méthodes différentes. Tu cliques ✓ pour chacune. 3 secondes.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ===== FEATURES EXPERT ===== -->
+    <section id="features" class="benefits" style="background: hsl(var(--bg-subtle));">
+        <div class="container">
+            <div style="text-align: center; margin-bottom: 64px;">
+                <span class="section-label reveal" style="background: hsl(145 30% 95%); color: hsl(var(--sage));">Expert V2</span>
+                <h2 class="section-headline reveal" style="margin: 16px auto 0;">
+                    Ce que la version <em>Expert</em> fait<br>
+                    que la standard ne fait pas.
+                </h2>
+            </div>
+
+            <div class="benefits-grid">
+                <div class="benefit-card reveal">
+                    <div class="benefit-emoji">🧮</div>
+                    <h3>Analyse multi-méthodes avancée</h3>
+                    <p>Discriminant, factorisation, racines évidentes, équation produit, méthode graphique... Le service identifie la démarche de chaque élève. Tu valides en 1 clic.</p>
+                </div>
+
+                <div class="benefit-card reveal">
+                    <div class="benefit-emoji">📐</div>
+                    <h3>Grilles personnalisées</h3>
+                    <p>Définis ta propre grille de correction. Le service s'y conforme. Plus de "réponse finale = X". Plus de barème imposé.</p>
+                </div>
+
+                <div class="benefit-card reveal">
+                    <div class="benefit-emoji">📞</div>
+                    <h3>Support téléphonique dédié</h3>
+                    <p>Tu bloques sur une copie manuscrite ? Tu appelles. Un expert te répond en moins de 2 heures. Pas de ticket, pas de bot.</p>
+                </div>
+
+                <div class="benefit-card reveal">
+                    <div class="benefit-emoji">📊</div>
+                    <h3>Stats de réussite par méthode</h3>
+                    <p>Visualise combien d'élèves ont utilisé chaque méthode. Repère les approches qui fonctionnent. Adapte ton cours.</p>
+                </div>
+
+                <div class="benefit-card reveal">
+                    <div class="benefit-emoji">🔬</div>
+                    <h3>Spécial physique / SVT</h3>
+                    <p>En physique : théorème de l'énergie cinétique, PFD, schéma électrique. En SVT : lecture de schémas, QCM complexes. Détection automatique.</p>
+                </div>
+
+                <div class="benefit-card reveal">
+                    <div class="benefit-emoji">🚀</div>
+                    <h3>Accès anticipé 1 mois</h3>
+                    <p>Tu reçois l'accès à la V2 un mois avant le lancement officiel. Tu testes en avant-première sur ton bac blanc.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ===== COMPARAISON ===== -->
+    <section class="pricing" style="background: hsl(var(--bg));">
+        <div class="container">
+            <div style="text-align: center; margin-bottom: 64px;">
+                <span class="section-label reveal">Comparaison</span>
+                <h2 class="section-headline reveal" style="margin: 16px auto 0;">
+                    Standard vs Expert.<br>
+                    <em>Tu choisis ton niveau.</em>
+                </h2>
+            </div>
+
+            <div style="max-width: 900px; margin: 0 auto; overflow-x: auto;">
+                <table style="width: 100%; border-collapse: collapse; background: hsl(var(--bg)); border: 1px solid hsl(var(--border)); border-radius: var(--radius-lg); overflow: hidden;">
+                    <thead>
+                        <tr style="background: hsl(var(--bg-muted));">
+                            <th style="padding: 16px; text-align: left; font-size: 14px; font-weight: 600; color: hsl(var(--fg)); border-bottom: 1px solid hsl(var(--border));">Feature</th>
+                            <th style="padding: 16px; text-align: center; font-size: 14px; font-weight: 600; color: hsl(var(--fg)); border-bottom: 1px solid hsl(var(--border));">Standard<br><span style="font-size: 12px; color: hsl(var(--fg-muted)); font-weight: 500;">99€/an</span></th>
+                            <th style="padding: 16px; text-align: center; font-size: 14px; font-weight: 600; color: hsl(var(--sage)); background: hsl(145 30% 96%); border-bottom: 1px solid hsl(var(--border));">Expert ⭐<br><span style="font-size: 12px; color: hsl(var(--sage)); font-weight: 500;">149€/an</span></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr><td style="padding: 14px 16px; font-size: 14px; border-bottom: 1px solid hsl(var(--border-muted));">Copies illimitées</td><td style="padding: 14px 16px; text-align: center;">✓</td><td style="padding: 14px 16px; text-align: center; background: hsl(145 30% 98%);">✓</td></tr>
+                        <tr><td style="padding: 14px 16px; font-size: 14px; border-bottom: 1px solid hsl(var(--border-muted));">Détection QCM + réponses écrites</td><td style="padding: 14px 16px; text-align: center;">✓</td><td style="padding: 14px 16px; text-align: center; background: hsl(145 30% 98%);">✓</td></tr>
+                        <tr><td style="padding: 14px 16px; font-size: 14px; border-bottom: 1px solid hsl(var(--border-muted));">Export SACoche / Pronote / Excel</td><td style="padding: 14px 16px; text-align: center;">✓</td><td style="padding: 14px 16px; text-align: center; background: hsl(145 30% 98%);">✓</td></tr>
+                        <tr><td style="padding: 14px 16px; font-size: 14px; border-bottom: 1px solid hsl(var(--border-muted));">Détection multi-méthodes (maths/physique)</td><td style="padding: 14px 16px; text-align: center;">Basique</td><td style="padding: 14px 16px; text-align: center; background: hsl(145 30% 98%);"><strong style="color: hsl(var(--sage));">Avancée</strong></td></tr>
+                        <tr><td style="padding: 14px 16px; font-size: 14px; border-bottom: 1px solid hsl(var(--border-muted));">Grilles de correction personnalisées</td><td style="padding: 14px 16px; text-align: center; color: hsl(var(--fg-subtle));">—</td><td style="padding: 14px 16px; text-align: center; background: hsl(145 30% 98%);">✓</td></tr>
+                        <tr><td style="padding: 14px 16px; font-size: 14px; border-bottom: 1px solid hsl(var(--border-muted));">Stats de réussite par méthode</td><td style="padding: 14px 16px; text-align: center; color: hsl(var(--fg-subtle));">—</td><td style="padding: 14px 16px; text-align: center; background: hsl(145 30% 98%);">✓</td></tr>
+                        <tr><td style="padding: 14px 16px; font-size: 14px; border-bottom: 1px solid hsl(var(--border-muted));">Support email</td><td style="padding: 14px 16px; text-align: center;">Standard</td><td style="padding: 14px 16px; text-align: center; background: hsl(145 30% 98%);"><strong style="color: hsl(var(--sage));">Prioritaire</strong></td></tr>
+                        <tr><td style="padding: 14px 16px; font-size: 14px; border-bottom: 1px solid hsl(var(--border-muted));">Support téléphonique dédié</td><td style="padding: 14px 16px; text-align: center; color: hsl(var(--fg-subtle));">—</td><td style="padding: 14px 16px; text-align: center; background: hsl(145 30% 98%);">✓</td></tr>
+                        <tr><td style="padding: 14px 16px; font-size: 14px;">Accès anticipé 1 mois avant lancement</td><td style="padding: 14px 16px; text-align: center; color: hsl(var(--fg-subtle));">—</td><td style="padding: 14px 16px; text-align: center; background: hsl(145 30% 98%);">✓</td></tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </section>
+
+    <!-- ===== WAITLIST ===== -->
+    <section id="waitlist" class="final-cta" style="background: hsl(var(--fg));">
+        <div class="cta-glow" style="background: radial-gradient(circle, hsl(var(--sage) / 0.2) 0%, transparent 60%);"></div>
+        <div class="container">
+            <h2 class="reveal" style="color: hsl(var(--bg));">
+                Rejoins les <em style="color: hsl(var(--sage));">247 profs</em><br>
+                déjà sur la liste d'attente.
+            </h2>
+            <p class="cta-sub reveal">
+                Tu reçois l'accès à la V2 un mois avant tout le monde.<br>
+                On t'envoie un email quand c'est prêt. Aucun spam.
+            </p>
+
+            <form class="cta-form reveal" novalidate>
+                <input
+                    type="email"
+                    class="cta-input"
+                    placeholder="ton.email@ac-academie.fr"
+                    required
+                    autocomplete="email"
+                >
+                <button type="submit" class="btn btn-primary btn-lg" style="background: hsl(var(--sage)); color: white;">
+                    Rejoindre la liste
+                    <span class="btn-arrow">→</span>
+                </button>
+            </form>
+
+            <p class="cta-note reveal">
+                ✓ 247 profs déjà inscrits · ✓ Accès anticipé 1 mois · ✓ Sans engagement
+            </p>
+        </div>
+    </section>
+
+    <!-- ===== FAQ ===== -->
+    <section id="faq" class="faq">
+        <div class="container">
+            <div style="text-align: center;">
+                <span class="section-label reveal">FAQ Expert</span>
+                <h2 class="section-headline reveal" style="margin-left: auto; margin-right: auto;">
+                    Tes questions.<br>
+                    <em>Nos réponses honnêtes.</em>
+                </h2>
+            </div>
+
+            <div class="faq-list">
+                <details class="faq-item reveal" open>
+                    <summary>
+                        <span>C'est quoi la différence avec la version standard à 99€/an ?</span>
+                        <span class="faq-icon">+</span>
+                    </summary>
+                    <p>
+                        La version standard à 99€/an fait de la saisie simple (QCM + réponse unique). Elle marche pour 80% des cas. La version Expert à 149€/an ajoute la <strong>compréhension des méthodes de résolution</strong> (multi-méthodes avancée), les grilles personnalisées, et le support téléphonique. C'est pour les profs qui font passer le bac officiel et qui veulent un outil expert.
+                    </p>
+                </details>
+
+                <details class="faq-item reveal">
+                    <summary>
+                        <span>Quand exactement la V2 sera disponible ?</span>
+                        <span class="faq-icon">+</span>
+                    </summary>
+                    <p>
+                        <strong>Septembre 2026.</strong> Si tu rejoins la liste d'attente, tu reçois l'accès un mois avant, soit <strong>août 2026</strong>. Ça te laisse le temps de tester sur ton bac blanc de septembre / ta rentrée.
+                    </p>
+                </details>
+
+                <details class="faq-item reveal">
+                    <summary>
+                        <span>Et si je rejoins la liste d'attente, je dois payer quand ?</span>
+                        <span class="faq-icon">+</span>
+                    </summary>
+                    <p>
+                        Maintenant : <strong>rien du tout.</strong> Tu rejoins la liste gratuitement. On t'envoie un email quand la V2 est prête. Tu décides à ce moment-là si tu prends l'abonnement Expert à 149€/an ou pas. Aucun paiement avant.
+                    </p>
+                </details>
+
+                <details class="faq-item reveal">
+                    <summary>
+                        <span>Ça marche pour quelles matières ?</span>
+                        <span class="faq-icon">+</span>
+                    </summary>
+                    <p>
+                        <strong>Mathématiques</strong> (tous niveaux, du collège à prépa) — détection du discriminant, factorisation, racines, identité remarquable, méthode graphique.<br>
+                        <strong>Physique</strong> (lycée) — PFD, énergie cinétique, schéma électrique, optique géométrique.<br>
+                        <strong>SVT</strong> (collège + lycée) — lecture de schémas, QCM complexes, réponses argumentées.<br>
+                        <strong>Technologie</strong> (collège) — schéma technique, organigramme.
+                    </p>
+                </details>
+
+                <details class="faq-item reveal">
+                    <summary>
+                        <span>Je suis prof de maths spé / prépa. C'est adapté ?</span>
+                        <span class="faq-icon">+</span>
+                    </summary>
+                    <p>
+                        La V2 est conçue pour le bac général et technologique. Pour la prépa, les méthodes sont plus pointues (analyse, algèbre linéaire). On est en train de développer une V3 "Prépa" pour 2027. Si t'es intéressé, mentionne-le dans le champ "Académie" du formulaire.
+                    </p>
+                </details>
+
+                <details class="faq-item reveal">
+                    <summary>
+                        <span>Et si je veux la version standard maintenant ?</span>
+                        <span class="faq-icon">+</span>
+                    </summary>
+                    <p>
+                        La version standard à 99€/an est <strong>disponible maintenant</strong>. Va sur <a href="index.html" style="color: hsl(var(--accent));">la page principale</a> pour tester 10 copies gratuites.
+                    </p>
+                </details>
+            </div>
+        </div>
+    </section>
+
+    <!-- ===== FOOTER ===== -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-container">
+                <div class="footer-brand">
+                    <a href="index.html" class="nav-logo">
+                        <span class="logo-mark">📝</span>
+                        <span>Copie Express</span>
+                    </a>
+                    <p>L'analyse multi-méthodes pour le vrai bac.</p>
+                </div>
+
+                <div class="footer-links">
+                    <div>
+                        <h4>Produit</h4>
+                        <a href="#features">Features Expert</a>
+                        <a href="#waitlist">Liste d'attente</a>
+                        <a href="index.html">Version standard</a>
+                        <a href="#">Roadmap V3</a>
+                    </div>
+                    <div>
+                        <h4>Ressources</h4>
+                        <a href="#faq">FAQ Expert</a>
+                        <a href="#">Démo vidéo</a>
+                        <a href="#">Cas d'usage maths</a>
+                        <a href="#">Cas d'usage physique</a>
+                    </div>
+                    <div>
+                        <h4>Légal</h4>
+                        <a href="#">RGPD</a>
+                        <a href="#">CGU</a>
+                        <a href="#">CGV</a>
+                        <a href="#">Contact</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="footer-bottom">
+                <p>© 2026 Copie Express. Fait avec ❤️ par et pour des profs.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

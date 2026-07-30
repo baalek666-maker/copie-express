@@ -1,257 +1,154 @@
-# 🎣 Asset 1 — Ad Hooks (20 hooks pour Copie Express)
+# 🎣 Asset 1 — Ad Hooks (20 hooks pour Copie Express) — **VERSION v2 BREVET/BAC**
 
-> Format : Headline (max 40 car.) + Primary Text + Description (max 30 car.)
-
----
-
-## HOOK 1 — Angle 1 (Famille)
-- **Barrière** : Douleur #1 (vie perso)
-- **Headline** : Tes enfants te manquent le mardi soir.
-- **Description** : Récupère tes soirées.
-- **Primary Text** :
-Tu corriges tes copies pendant qu'ils dorment. Tu scrolles leurs photos le matin au lieu de profiter du week-end. Tu te dis que c'est "le métier". Mais c'est pas ton métier. C'est juste qu'on t'a jamais laissé le choix. Jusqu'à maintenant.
-Une IA scanne tes copies d'éval nationale en 30 secondes. Tu valides en 2 clics. Tu fermes le PC. Tu regardes ton fils faire ses devoirs à côté de toi. Comme une mère normale.
-Teste sur 10 copies gratuites. Sans CB.
+> **Positionnement cible** : Profs de maths/physique/SVT collège/lycée qui font passer brevet/bac blanc
+> **Format** : Headline (max 40 car.) + Primary Text + Description (max 30 car.)
+> **Date** : 30 juillet 2026
 
 ---
 
-## HOOK 2 — Angle 1 (Famille)
-- **Barrière** : Douleur #1 (vie perso)
-- **Headline** : 3h de copies ce soir. Ou un film avec tes enfants.
-- **Description** : Choisis.
-- **Primary Text** :
-Tes 90 copies d'éval CM2 sont sur ton bureau depuis 18h. Tu les as comptées : 3 heures à cliquer sur "bonne réponse / mauvaise réponse" dans SACoche. Pendant ce temps, ton fils t'attend dans le salon. Il a 8 ans. Il regarde un film. Il veut que tu viennes.
-Demain, il aura 9 ans. Et toi, tu te souviendras de cette soirée où tu as scanné tes copies en 30 secondes. Tu as validé. Tu as fermé l'ordi. Tu t'es assise à côté de lui.
-10€/mois. Le prix d'1 café par jour. Et tes enfants te retrouvent.
+## 🎯 ANGLE 1 — BREVET/BAC (PRIORITÉ 1)
+
+### HOOK 1 — Urgence brevet blanc
+- **Headline** : Brevet blanc. 90 copies. Terminé.
+- **Primary Text** : Tu photographies ta pile. Le service détecte chaque réponse en 2 minutes. Tu valides 5 copies au hasard. Tu cliques exporter. Tu fermes le PC. Tu vas dormir.
+- **Description** : Brevet blanc, sauvé.
+- **CTA** : Essaie sur 10 copies
+
+### HOOK 2 — Urgence bac blanc
+- **Headline** : Bac blanc : 92 copies en 30 sec.
+- **Primary Text** : Tu photographies ta pile. Chaque QCM, chaque réponse, chaque méthode de résolution. Tu valides 5 copies. Tu cliques exporter. Ton fichier SACoche est prêt. Tu peux aller chercher tes enfants à l'école.
+- **Description** : Bac blanc, sauvé.
+
+### HOOK 3 — Douleur du samedi
+- **Headline** : Samedi 14h. Pile de copies.
+- **Primary Text** : Le week-end, tu devais jardiner, jouer au tennis, voir tes amis. Mais t'as 90 copies de brevet blanc à corriger. Tu photographies la pile. 30 secondes plus tard, ton fichier est prêt. Tu vas au tennis.
+- **Description** : Brevet blanc, sauvé.
+
+### HOOK 4 — Mardi soir libéré
+- **Headline** : Tes mardis 22h devant SACoche.
+- **Primary Text** : Tu fais passer le brevet blanc dans 2 semaines. 90 copies. Mardi soir, tu cliques. Mercredi soir, tu cliques. Jeudi soir, tes enfants te regardent passer. Vendredi soir, tu photographies ta pile avec ton téléphone. 30 secondes plus tard, c'est fait.
+- **Description** : Brevet blanc, sauvé.
+
+### HOOK 5 — Multi-méthodes
+- **Headline** : 3 méthodes. 1 problème. 0 stress.
+- **Primary Text** : Ton élève a utilisé la factorisation. L'autre, le discriminant. L'autre, les racines évidentes. Tous ont juste. Copie Express détecte la méthode. Tu valides en 1 clic.
+- **Description** : Maths, simplifié.
 
 ---
 
-## HOOK 3 — Angle 1 (Famille)
-- **Barrière** : Douleur #1 (vie perso)
-- **Headline** : Le prix de tes soirées : 90 clics par copie.
-- **Description** : Récupère-les.
-- **Primary Text** :
-Tu fais le calcul ce soir : 90 copies × 90 clics = 2h15 de pure perte. Pendant ce temps, ta fille te raconte sa journée. Tu écoutes d'une oreille. L'autre est rivée sur l'écran.
-Tu te demandes comment les autres profs font. La réponse : ils font pareil. Ils ont juste arrêté de compter.
-Une IA scanne et remplit SACoche à ta place. Tu valides en 30 secondes. Tu fermes l'écran. Tu écoutes ta fille jusqu'au bout. Pour de vrai.
-10 copies gratuites pour tester.
+## 🎯 ANGLE 2 — VIE DE FAMILLE (SECONDAIRE)
+
+### HOOK 6 — Soirée sauvée
+- **Headline** : Tu rates le match de ton fils.
+- **Primary Text** : Encore. Parce que t'as 90 copies de brevet blanc à cliquer. Et ce soir, c'est le sien. Photographie ta pile maintenant. Ton fichier SACoche est prêt en 30 secondes. Tu fermes l'ordi. Tu lèves les yeux.
+- **Description** : Brevet blanc, sauvé.
+
+### HOOK 7 — Couple
+- **Headline** : "T'es encore dessus ?"
+- **Primary Text** : Ta compagne te regarde depuis le canapé. Tu détournes les yeux de SACoche. Photographie ta pile. 30 secondes. Tu fermes l'ordi. Tu t'assieds à côté d'elle.
+- **Description** : Brevet blanc, sauvé.
+
+### HOOK 8 — Weekend
+- **Headline** : Ton dimanche t'appartient.
+- **Primary Text** : Pas de pile de copies sur la table du salon. Pas de SACoche ouvert sur le PC. Tu photographies ta pile vendredi soir. Lundi matin, c'est fait. Tu pars en rando.
+- **Description** : Brevet blanc, sauvé.
+
+### HOOK 9 — Enfants
+- **Headline** : Tes enfants te manquent.
+- **Primary Text** : Ils te demandent pourquoi tu cliques tout le temps. Tu leur montres que tu les écoutes. Tu photographies ta pile. 30 secondes. Tu fermes le PC. Tu joues avec eux.
+- **Description** : Brevet blanc, sauvé.
+
+### HOOK 10 — Énergie
+- **Headline** : 3h de clics. Ou dormir.
+- **Primary Text** : Ton brevet blanc est passé. 90 copies. T'as le choix : cliquer 3 heures ce soir, ou dormir. Photographie ta pile. Ferme les yeux. Ton fichier sera prêt demain matin.
+- **Description** : Brevet blanc, sauvé.
 
 ---
 
-## HOOK 4 — Angle 2 (Éval nationale)
-- **Barrière** : Douleur #2 (saisie admin)
-- **Headline** : 3h de clics SACoche. En 30 secondes.
-- **Description** : Enfin.
-- **Primary Text** :
-Tu connais la chanson : 90 copies CM2 sur ton bureau, SACoche qui rame, ta souris qui cliquera 8100 fois ce soir.
-Tu te demandes si c'est vraiment ton métier. La réponse : non. Ton métier c'est d'enseigner, pas de cliquer.
-Une IA scanne les 90 copies en 2 minutes. Elle détecte chaque réponse cochée. Elle remplit SACoche à ta place. Tu ouvres le fichier, tu vérifies 5 copies au hasard, tu valides. Terminé. 30 secondes.
-10 copies gratuites pour tester, sans engagement.
+## 🎯 ANGLE 3 — TECHNIQUE (POUR LES PROFS SCEPTIQUES)
+
+### HOOK 11 — Méthodes détectées
+- **Headline** : L'outil qui comprend tes maths.
+- **Primary Text** : Pas juste "réponse = juste". Copie Express détecte la méthode de résolution de chaque élève. Discriminant, factorisation, racines. Tu valides la méthode en 1 clic. Comme un vrai prof.
+- **Description** : Maths, simplifié.
+
+### HOOK 12 — Compatible SACoche
+- **Headline** : SACoche, sans les clics.
+- **Primary Text** : Ton fichier SACoche, prêt à importer. Sans les 8100 clics. Sans les 3 heures. Photographie ta pile. Le service remplit SACoche à ta place. Tu vérifies. Tu cliques exporter. C'est fait.
+- **Description** : Brevet blanc, sauvé.
+
+### HOOK 13 — Multi-matières
+- **Headline** : Maths, physique, SVT. Même combat.
+- **Primary Text** : Brevet blanc de maths, bac blanc de physique, contrôle de SVT. Toutes tes copies. Toutes tes matières. Un seul outil. Tu photographies, tu valides, tu fermes.
+- **Description** : Brevet blanc, sauvé.
+
+### HOOK 14 — Fiable
+- **Headline** : 99,2% de fiabilité. Zéro stress.
+- **Primary Text** : Testé sur 1 000 copies réelles. Et de toute façon, tu valides en 30 secondes avant de télécharger. Zéro risque pour ton bulletin.
+- **Description** : Brevet blanc, sauvé.
+
+### HOOK 15 — Tarif
+- **Headline** : 99€/an. 0,27€/jour.
+- **Primary Text** : Moins cher qu'un restau. Pour économiser 30 à 50 heures par an. À raison de 3,30€/h de gain, c'est imbattable.
+- **Description** : Brevet blanc, sauvé.
 
 ---
 
-## HOOK 5 — Angle 2 (Éval nationale)
-- **Barrière** : Douleur #2 (saisie admin)
-- **Headline** : Tu cliques 8100 fois par session. Pourquoi ?
-- **Description** : Arrête.
-- **Primary Text** :
-90 copies × 90 questions par copie = 8100 clics. Trois heures de ta vie, parties dans des clics.
-Tu n'es pas devenue prof pour cliquer. Tu es devenue prof pour enseigner.
-Une IA fait les 8100 clics à ta place. En 30 secondes. Tu valides, tu passes à autre chose.
-Teste sur ta prochaine éval, sans CB.
+## 🎯 ANGLE 4 — CŒUR DE MÉTIER (ÉMOTIONNEL)
+
+### HOOK 16 — Métier retrouvé
+- **Headline** : Tu es prof. Pas secrétaire.
+- **Primary Text** : Tu as choisi ce métier pour enseigner. Pas pour cliquer sur SACoche. Photographie ta pile. Récupère ton cœur de métier.
+- **Description** : Brevet blanc, sauvé.
+
+### HOOK 17 — Vie de prof
+- **Headline** : Redeviens un prof.
+- **Primary Text** : Pas une machine à cliquer. Copie Express te libère 30 heures par an. Pour préparer tes vrais cours. Pour voir tes élèves progresser. Pour vivre.
+- **Description** : Brevet blanc, sauvé.
+
+### HOOK 18 — Urgence bac
+- **Headline** : Bac blanc dans 2 semaines.
+- **Primary Text** : 92 copies à cliquer. Ou 30 secondes. Photographie ta pile. Ferme SACoche. Ouvre ton cours de maths.
+- **Description** : Bac blanc, sauvé.
+
+### HOOK 19 — Confrère
+- **Headline** : Ta collègue l'utilise déjà.
+- **Primary Text** : Elle fait passer le même brevet blanc que toi. Elle a déjà fini. Toi, t'es encore en train de cliquer. Photographie ta pile maintenant.
+- **Description** : Brevet blanc, sauvé.
+
+### HOOK 20 — Respire
+- **Headline** : Respire. C'est fait.
+- **Primary Text** : Tu photographies ta pile. Tu fermes les yeux. Tu rouvres. Ton fichier SACoche est prêt. Tu valides 5 copies au hasard. C'est bon. Tu peux respirer.
+- **Description** : Brevet blanc, sauvé.
 
 ---
 
-## HOOK 6 — Angle 2 (Éval nationale)
-- **Barrière** : Douleur #2 (saisie admin)
-- **Headline** : Éval nationale. 3h → 30 sec.
-- **Description** : La différence.
-- **Primary Text** :
-Tu scannes tes copies d'éval nationale. L'IA remplit SACoche. Tu valides. Tu fermes l'ordi.
-C'est aussi simple que ça. Pas de tuto de 2h. Pas de formation. Pas de "configuration complexe".
-Tu ouvres. Tu uploades. Tu attends 2 minutes. Tu valides.
-Pour la première fois depuis 8 ans, tu sors du weekend sans 90 copies sur ton bureau.
-Essaie, 10 copies gratuites.
+## 📊 Répartition par angle
+
+- **Angle 1 (Brevet/Bac)** : 5 hooks (25%)
+- **Angle 2 (Vie de famille)** : 5 hooks (25%)
+- **Angle 3 (Technique)** : 5 hooks (25%)
+- **Angle 4 (Cœur de métier)** : 5 hooks (25%)
+
+**Recommandation** : tester Angle 1 d'abord (5 hooks brevet/bac), puis Angle 2 (vie de famille), puis Angle 4 (cœur de métier). Angle 3 (technique) en dernier — il convertit moins mais valide pour les sceptiques.
 
 ---
 
-## HOOK 7 — Angle 3 (Weekend)
-- **Barrière** : Douleur #1 + #3 (récupération weekend)
-- **Headline** : Ton samedi t'appartient enfin.
-- **Description** : Essaie.
-- **Primary Text** :
-Samedi matin. Le soleil brille. Ton café fume. Tu ouvres ton ordi. 90 copies à corriger.
-Ou tu fermes l'ordi. Tu vas au marché. Tu fais un brunch avec tes amis. Tu regardes ta fille faire du vélo dans le parc.
-La différence ? Une IA qui a scanné tes copies hier soir pendant que tu dormais. Elle a rempli SACoche. Tu vérifies 5 copies au hasard. C'est bon.
-Samedi prochain, tu te souviendras comme le premier vrai weekend en 5 ans.
-10€/mois.
+## 🎯 Top 5 à tester en priorité
+
+1. **HOOK 1** (Brevet blanc. 90 copies. Terminé.) — Direct, urgent, chiffré
+2. **HOOK 5** (3 méthodes. 1 problème. 0 stress.) — Feature unique
+3. **HOOK 6** (Tu rates le match de ton fils.) — Émotionnel pur
+4. **HOOK 12** (SACoche, sans les clics.) — Pain concret
+5. **HOOK 16** (Tu es prof. Pas secrétaire.) — Identité
 
 ---
 
-## HOOK 8 — Angle 3 (Weekend)
-- **Barrière** : Douleur #1 + #3 (récupération weekend)
-- **Headline** : 8 ans sans brunch le dimanche.
-- **Description** : Jusqu'à aujourd'hui.
-- **Primary Text** :
-Tes dimanches se ressemblent : café, copies, SACoche, "juste encore 10 copies", déjeuner froid devant l'écran, fatigue, "demain je commence plus tôt".
-Ça fait 8 ans que ça dure.
-Une prof de français à Toulouse a testé Copie Express en juin. Pour la première fois en 8 ans, elle a fait un brunch avec ses copines un dimanche. Elle a pleuré en mangeant ses œufs bénédictine.
-Son témoignage est sur la landing page. Lis-le avant de réserver tes dimanches à SACoche.
+## ✅ Anti-patterns évités
 
----
-
-## HOOK 9 — Angle 4 (Technique, pour Marc)
-- **Barrière** : Peur technique
-- **Headline** : 99.2% de fiabilité sur QCM.
-- **Description** : Vérifié.
-- **Primary Text** :
-On a testé Copie Express sur 1000 copies réelles. 992 correctement scannées. 8 erreurs, toutes détectées par la validation humaine en 30 secondes.
-Mistral OCR + GPT-4o-mini. Pas de magie. De la précision.
-Dashboard avec capture d'écran. Tu valides ou tu corriges. Tu gardes le contrôle de la note finale.
-Pour les profs de maths, physique, SVT : précision mesurée, pas promise.
-Test technique sur 10 copies gratuites.
-
----
-
-## HOOK 10 — Angle 4 (Technique, pour Marc)
-- **Barrière** : Peur technique
-- **Headline** : Mistral OCR. Pas une boîte noire.
-- **Description** : Audit complet.
-- **Primary Text** :
-Copie Express tourne sur Mistral OCR (précision reconnue sur manuscrit français) et GPT-4o-mini pour l'extraction structurée.
-Chaque copie passe par : OCR → texte brut → LLM structuré → validation → export.
-Tu vois chaque étape. Tu valides. Tu reprends la main si tu veux.
-Stack ouvert. Pas de magie. Juste de l'OCR et un LLM qui font le boulot que tu n'as plus le temps de faire.
-Démo technique sur demande. 10 copies gratuites.
-
----
-
-## HOOK 11 — Angle 5 (Prix)
-- **Barrière** : Objection #4 (prix)
-- **Headline** : 10€/mois. Le prix d'1 café par jour.
-- **Description** : Pour récupérer tes soirées.
-- **Primary Text** :
-Tu bois combien de cafés par jour ? 1 ? 2 ?
-Tu paies combien tes copies de français ? 0€ (ton temps ne compte pas, bien sûr).
-Copie Express, c'est 10€/mois. C'est le prix d'1 café par jour. Pour récupérer 3h par session d'éval nationale.
-ROI : 3h × 4 sessions/an = 12h/an. Soit 0.83€/h. Moins qu'1 café.
-Sans engagement. Résiliable à tout moment.
-Essaie avec 10 copies gratuites.
-
----
-
-## HOOK 12 — Angle 5 (Prix)
-- **Barrière** : Objection #4 (prix)
-- **Headline** : 12h/an pour 10€/mois.
-- **Description** : Moins d'1€/h.
-- **Primary Text** :
-Tu te demandes si ça vaut le coup.
-Fais le calcul : 4 sessions d'éval par an × 3h de saisie = 12h.
-12h pour 10€/mois × 12 mois = 120€/an.
-Soit 10€/h. Moins qu'1 café par heure gagnée.
-Et les heures que tu récupères : soirées avec tes enfants, weekends au marché, dimanches au brunch.
-Le calcul est vite fait. Essaie sans risque avec 10 copies gratuites.
-
----
-
-## HOOK 13 — Angle 6 (Setup rapide)
-- **Barrière** : Objection #1 (temps d'apprentissage)
-- **Headline** : Setup en 5 min.
-- **Description** : C'est tout.
-- **Primary Text** :
-Tu ouvres le site. Tu crées ton compte. Tu uploades tes 10 premières copies. Tu valides. Tu fermes.
-5 minutes. Pas de tuto de 2h. Pas de formation. Pas de "configuration complexe".
-Aussi simple que poster une photo sur Instagram.
-Si tu sais cliquer, tu sais utiliser Copie Express.
-Démarre en 5 min, 10 copies gratuites.
-
----
-
-## HOOK 14 — Angle 6 (Setup rapide)
-- **Barrière** : Objection #1 (temps d'apprentissage)
-- **Headline** : Aussi simple que poster une photo.
-- **Description** : Promis.
-- **Primary Text** :
-Étape 1 : Tu crées ton compte (1 min)
-Étape 2 : Tu uploades tes copies (1 min)
-Étape 3 : Tu attends 2 min pendant que l'IA scanne
-Étape 4 : Tu valides (30 sec)
-Étape 5 : Tu télécharges le fichier SACoche
-Terminé. 5 minutes totales. Pas de formation.
-10 copies gratuites pour tester.
-
----
-
-## HOOK 15 — Angle 7 (Contrôle)
-- **Barrière** : Objection #3 (peur remplacement)
-- **Headline** : Tu gardes le contrôle. Toujours.
-- **Description** : Zéro délégation.
-- **Primary Text** :
-Copie Express ne décide pas à ta place. Il remplit juste les cases.
-Tu vois chaque copie scannée. Tu valides ou tu corriges. La note finale, c'est toi qui la mets. Comme avant.
-Mais en 30 secondes au lieu de 3 heures.
-C'est un assistant, pas un remplaçant. Tu gardes ton métier, ton expertise, ton contrôle.
-Teste sans risque, 10 copies gratuites.
-
----
-
-## HOOK 16 — Angle 7 (Contrôle)
-- **Barrière** : Objection #3 (peur remplacement)
-- **Headline** : La note finale, c'est toi qui la mets.
-- **Description** : Toujours.
-- **Primary Text** :
-Tu as passé un CAPES. Tu as 12 ans d'expérience. Tu sais mieux que personne si une copie mérite 12 ou 14.
-Copie Express te rend juste les 3h que tu claquais à cliquer. Il ne te remplace pas. Il t'assiste.
-Tu valides. Tu reprends la main si tu veux. Tu modifies si tu n'es pas d'accord.
-C'est ton métier. C'est ton expertise. C'est juste plus rapide maintenant.
-Essaie, 10 copies gratuites.
-
----
-
-## HOOK 17 — Angle 2 (Variante QCM)
-- **Barrière** : Douleur #2 (saisie admin)
-- **Headline** : QCM brevet. 30 secondes.
-- **Description** : SACoche rempli.
-- **Primary Text** :
-Tu as 120 copies de QCM brevet blanc sur ton bureau. SACoche ouvert dans un onglet. 45 questions par copie. Tu cliques 5400 fois ce soir.
-Ou tu scannes les 120 copies. L'IA détecte chaque QCM. Elle remplit le CSV SACoche. Tu valides 10 copies au hasard pour vérifier. Tu importes.
-Terminé. 30 secondes au lieu de 5 heures.
-Pour les profs de maths, physique, SVT, techno : testé sur 1000 copies, 99.2% de fiabilité.
-
----
-
-## HOOK 18 — Angle 1 (Émotion pure)
-- **Barrière** : Douleur #1 (vie perso)
-- **Headline** : Elle a raté le premier pas de son fils.
-- **Description** : À cause des copies.
-- **Primary Text** :
-Une prof de français à Lyon a raté le premier pas de son fils. Elle était en train de rentrer 84 copies d'éval CM2 dans SACoche. Son mari filmait. Elle a vu la vidéo le soir, en larmes.
-Elle a changé de méthode. Une IA scanne ses copies maintenant. Elle finit en 30 secondes. Elle a vu le premier pas de son deuxième enfant.
-Tu ne rateras pas le premier pas de ton enfant. Tu ne rateras plus rien.
-10 copies gratuites, sans engagement.
-
----
-
-## HOOK 19 — Angle 3 (Concret weekend)
-- **Barrière** : Douleur #1 + #3
-- **Headline** : Samedi prochain. Tu fais quoi ?
-- **Description** : Brunch ou copies ?
-- **Primary Text** :
-Samedi prochain, 9h du matin. Ton café fume. Ton ordi t'attend. 80 copies à corriger.
-Ou tu fermes l'ordi. Tu vas au marché avec ta fille. Tu cuisines un truc qu'elle aime. Tu regardes un film l'après-midi. Tu lis. Tu fais rien.
-La différence ? Une IA qui a scanné tes copies vendredi soir. Tu valides samedi matin en 30 secondes. Terminé.
-Tu veux quel samedi, dans 8 jours ?
-Essaie, 10 copies gratuites.
-
----
-
-## HOOK 20 — Angle 5 + 7 (Combiné)
-- **Barrière** : Objection #4 + #3
-- **Headline** : 10€/mois. Tu gardes le contrôle.
-- **Description** : Sans engagement.
-- **Primary Text** :
-Tu te demandes si ça vaut 10€/mois et si tu vas perdre le contrôle.
-Réponse : 10€/mois, c'est le prix d'1 café par jour pour récupérer 3h par session. ROI : 12h/an × 10€/mois < 1 café par heure gagnée.
-Le contrôle : tu valides chaque copie. La note finale, c'est toi. Comme avant, mais en 30 secondes au lieu de 3h.
-Sans engagement. Résiliable à tout moment. Tu reprends tes copies en main si tu veux.
-10 copies gratuites pour tester. Tu verras bien.
+- ❌ Pas de mention "IA" (peur du remplacement)
+- ❌ Pas de mention "OCR" / "GPT" (vocabulaire tech)
+- ❌ Pas de mention "premium" (cliché SaaS)
+- ❌ Pas de "boostez vos résultats" (langage startup)
+- ✅ Vocabulaire orienté **prof** : "brevet blanc", "SACoche", "méthode", "corriger"
+- ✅ Émotionnel concret : match de foot, rando, enfants, couple

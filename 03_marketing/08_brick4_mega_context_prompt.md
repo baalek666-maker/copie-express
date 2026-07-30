@@ -1,194 +1,163 @@
-# 🧱 Brick 4 — Mega Context Prompt (Copie Express)
+# 🧱 Brick 4 — Mega Context Prompt (Copie Express) — **VERSION v2 BREVET/BAC**
 
 ```
-You are tasked to help me with different copywriting tasks. Here is the updated context about my product. Read it and wait for the next instruction.
+You are tasked to help me with different copywriting tasks. Here is the updated context about my product. Read it and wait for the next instructions.
 
-Product description
-"""
-# 🧱 Brick 1 — Product Description (Copie Express)
+## Product Information
 
-## 🎯 Le Produit
+**Name**: Copie Express
+**Tagline**: "Redeviens un prof. Pas une machine à cliquer."
+**What it is**: Service web qui scanne les copies de brevet blanc, bac blanc, ou contrôles au fil de l'année, et qui remplit le fichier SACoche/Pronote/Excel automatiquement.
+**Cible principale** : Profs de mathématiques, physique, SVT, technologie en collège et lycée (France).
+**Cible secondaire** : Profs de français, histoire, langues (éval à réponse unique).
+**Cible EXCLUE** : Profs de primaire (1-2 éval/an = pas assez de ROI pour 99€/an).
 
-Copie Express est un service d'assistance à la correction pour enseignants français. Le prof scanne ses copies (évaluations nationales ou copies classiques), et le système extrait automatiquement les réponses et génère un fichier prêt à importer dans SACoche, Pronote ou Excel.
+## Value Proposition
 
-Promesse principale : récupérer 3 heures par session d'éval nationale et 2 heures par session de copies classiques.
+**Avant Copie Express** :
+- Brevet blanc 90 copies = 3 heures de clics chaque soir pendant 1 semaine
+- 8 100 clics par session
+- Tu rates tes soirées, tes weekends, ton couple, tes enfants
+- Tu te sens épuisé(e),像个 robot
 
-## 💡 Ce que ça fait concrètement
+**Avec Copie Express** :
+- Tu photographies ta pile avec ton téléphone (2 min)
+- Le service détecte chaque QCM, chaque réponse écrite, chaque méthode de résolution (2 min)
+- Tu valides 5 copies au hasard (30 sec)
+- Tu cliques exporter (30 sec)
+- Total : 3 minutes chrono
+- Tu fermes l'ordi. Tu vas au tennis. Tu retrouves ta vie.
 
-1. Upload : Le prof photographie ou scanne ses copies (PDF, photos JPG/PNG)
-2. Extraction automatique : OCR Mistral + LLM détectent les réponses cochées/écrites
-3. Validation rapide : Le prof voit un aperçu, corrige en 30 secondes si besoin
-4. Export : Téléchargement au format SACoche / Pronote / Excel
-5. Gain de temps : 3h de saisie → 30 secondes
+## Key Differentiators
 
-## 💰 Tarification
+1. **Multi-méthodes (maths/physique)** : Le service détecte la méthode de résolution utilisée par chaque élève (discriminant, factorisation, racines, etc.) et vérifie si elle est correcte. Pas juste "réponse finale = X → juste".
+2. **Ciblage brevet/bac** : Positionnement clair vs les OCR généralistes.
+3. **Tarification simple** : 99€/an vs 0,10€/copie (prévisible, pas de surprise).
+4. **Validation finale prof** : Le prof reste maître. C'est lui qui clique "valider".
+5. **Saisonnalité alignée** : Marketing sur les pics brevet (mars) et bac (mai-juin).
 
-| Offre | Prix | Cible |
-|-------|------|-------|
-| Découverte | 10€/mois | Prof qui veut tester |
-| Standard | 10€/mois | Prof régulier |
-| Annuel | 99€/an | Prof engagé (économie de 21€) |
-| Essai | 10 copies gratuites | Tout nouveau prof |
+## Pricing (3 tiers)
 
-## 🎯 Pour qui c'est FAIT
+- **Tier 1** : 10€/mois (sans engagement, pour sceptiques)
+- **Tier 2** : 99€/an ⭐ Populaire (économies 21€, détection multi-méthodes incluse)
+- **Tier 3** : 149€/an Expert (V2 septembre 2026, analyse multi-méthodes avancée + grilles personnalisées + support téléphonique)
 
-Sophie, 38 ans, prof de français en lycée
-- En couple avec enfants
-- Salaire : 2000-2400€ net/mois
-- Prête à payer pour récupérer ses soirées et weekends
-- Décide vite quand convaincue par les pairs
+## Target Audience (Persona)
 
-## 🎯 Pour qui c'est PAS FAIT
+**Persona principale (80%) :**
+**Marc, 42 ans, prof de maths en collège à Lyon**
+- Marié, 2 enfants (8 et 11 ans)
+- Salaire : 2 400-2 800€ net
+- Quotidien : 18h de cours, 2-3h de prépa, 1h de corrections/soir
+- Brevet blanc : 2 sessions/an (mars + mai), 90 copies chacune
+- Douleur #1 : "Mon brevet blanc de mars, c'est 90 copies. 8 100 clics. 3h de ma vie chaque soir pendant 1 semaine."
+- Désir #1 : Retrouver ses soirées (et ses enfants, et sa femme)
+- Objection #1 : "Et si l'outil se trompe ? J'ai pas envie de perdre la face devant mes élèves"
+- Voc authentique : "Je clique tellement que je rêve de cases à cocher la nuit", "Ma femme m'a dit : tu es redevenu normal"
 
-- Profs qui n'utilisent jamais SACoche/Pronote
-- Profs qui font du QCM très complexe
-- Profs qui veulent une correction qualitative subjective
+**Persona secondaire (12%) :**
+**Sylvie, 39 ans, prof de physique en lycée à Bordeaux**
+- En couple, 1 enfant (5 ans)
+- Bac blanc = use case central (90-180 copies)
+- Douleur : "Mon bac blanc de Terminale, c'est 180 copies. 4 jours de clics. Mon fils me regarde partir le matin, je reviens le soir, il est couché."
 
-## ⚙️ Stack technique
+**Persona tertiaire (8%) :**
+**Céline, 36 ans, prof de SVT en collège à Nantes**
+- En couple sans enfants
+- Brevet blanc SVT (90 copies avec schémas)
+- Douleur : "Mon brevet blanc SVT, c'est 90 copies avec schémas. Mon outil classique sait pas gérer."
 
-- Frontend : Next.js 14 + Tailwind CSS + Stripe Checkout
-- Backend : Node.js + Express + BullMQ
-- DB : PostgreSQL
-- IA : Mistral OCR + GPT-4o-mini
-- Storage : S3-compatible
-"""
+## Customer Journey / Awareness Levels
 
-Consolidated Persona
-"""
-# 🧱 Brick 2 — Consolidated Persona (Copie Express)
+### Level 1 — Unaware (90% des profs)
+- Sait pas que la saisie SACoche peut être automatisée
+- Pain : "C'est comme ça, c'est notre métier"
+- Message : "Et si t'avais pas à cliquer 8 100 fois ?"
 
-## 👤 Persona Principale : Sophie, 38 ans, prof de français en lycée
+### Level 2 — Aware du problème (7%)
+- Sait que ça existe des outils, mais a essayé et c'était nul
+- Pain : "J'ai testé un OCR, c'était pourri"
+- Message : "L'analyse multi-méthodes change tout"
 
-Démographie : Femme (75% du corps enseignant français), 35-50 ans, en couple avec 1-2 enfants (6-14 ans), salaire net 2 000-2 400€/mois, 12-18 ans d'ancienneté, zone urbaine ou périurbaine.
+### Level 3 — Aware de la solution (3%)
+- Sait que Copie Express existe
+- Pain : "Je veux bien mais 99€/an c'est cher"
+- Message : "12h sauvées = 8,25€/h de salaire. C'est imbattable."
 
-Comportements : Corrige ses copies le soir (après 20h) ou le dimanche, passe 6h/semaine à corriger, utilise SACoche ou Pronote quotidiennement, scrolle Instagram et Facebook 15-30 min/jour, suit des comptes de profs (Charivari, Le Café Pédagogique).
+### Level 4 — Most aware (1%)
+- A déjà testé ou est sur le point d'acheter
+- Pain : "Faut juste que je trouve le temps"
+- Message : "Ton brevet blanc est dans combien de temps ?"
 
-Frustrations profondes :
-1. "Je passe mes soirées à corriger au lieu de voir mes enfants grandir"
-2. "Les évaluations nationales me bouffent 3h de clics pour rien"
-3. "Je suis épuisée, je n'ai plus de vie perso"
-4. "Mes élèves ne progressent pas même après mes corrections"
-5. "On me demande toujours plus, mais sans reconnaissance"
+## Brand Voice
 
-Désirs :
-1. Récupérer ses soirées et weekends
-2. Retrouver du temps pour sa famille
-3. Se sentir reconnue dans son travail
-4. Voir ses élèves progresser
-5. Avoir une vie équilibrée
+### Tone
+- **Direct, pas bullshit** : "Tu cliques pendant 3h ou tu photographies ta pile en 30 secondes. T'as pas 2 solutions."
+- **Concret, pas poétique** : "8 100 clics" plutôt que "innombrables heures perdues"
+- **Prof, pas startup** : On est dans les vestiaires de profs, pas dans un coworking
+- **Amical, pas corporate** : "Ta femme te regarde" plutôt que "Votre entourage professionnel s'inquiète"
 
-Objections :
-1. "C'est encore un outil qui va me demander du temps pour apprendre"
-2. "Et si ça se trompe dans la détection ?"
-3. "Je préfère faire les choses moi-même, c'est mon job"
-4. "C'est combien ? J'ai pas le budget."
-5. "Mes collègues vont juger si je délègue la correction"
+### Mots à utiliser (vocabulaire prof)
+- Brevet blanc, bac blanc, SACoche, Pronote
+- Méthode de résolution, discriminant, factorisation, racines
+- Copies manuscrites, 8 100 clics, copies à scanner
+- Élèves, classe, cours de maths, DAC
+- Mardi soir, week-end, enfants, match, repas en famille
 
-Déclencheurs d'achat :
-1. Témoignage d'une autre prof "j'ai récupéré mes weekends"
-2. Post FB montrant qu'elle n'est pas seule à galérer
-3. Essai gratuit de 10 copies sans engagement
-4. 10€/mois = 1 café par jour
-5. Promesse d'un gain de temps mesurable
+### Mots à éviter
+- "IA", "OCR", "GPT", "machine learning"
+- "Boost", "performance", "productivité", "efficacité"
+- "Premium", "VIP", "exclusif", "luxe"
+- "Révolutionnaire", "game-changer", "disruptif"
+- "Votre tâche administrative" (trop distant)
+- "Fatigue numérique" (trop poétique)
 
-Voice of Customer :
-- "J'en peux plus de ces évaluations nationales à la con"
-- "Encore 3h de clics pour rentrer des QCM dans SACoche"
-- "Je corrige le soir après que les enfants soient couchés"
-- "Le weekend c'est copies, pas repos"
-- "J'ai plus de vie perso à cause de ce métier"
-- "Y'a pas un outil qui fait ça automatiquement ?"
-- "Si ça pouvait scanner mes copies et tout remplir, je prends"
-- "Mais je veux rester maître de la note finale"
-- "10€/mois c'est rien si ça me fait gagner 3h"
+## Anti-Patterns (Doc 47)
 
-## 👤 Persona Secondaire : Marc, 45 ans, prof de maths en collège
+1. **Pas de mention "IA" en titre/headline** : peur du remplacement
+2. **Pas de mention "OCR" / "GPT" / "Mistral" en copy public** : jargon tech
+3. **Pas de "boostez vos résultats"** : langage startup
+4. **Pas de "révolutionnaire" / "game-changer"** : cliché
+5. **Pas de "satisfait ou remboursé" en headline** : trop corporate
+6. **Pas de "votre temps est précieux"** : trop générique
+7. **Pas de "votre mission éducative"** : trop institutionnel
+8. **Pas de "nous comprenons votre métier"** : condescendant
 
-Homme, plus technique, moins dans l'émotion, utilise SACoche quotidiennement, a déjà testé des outils numériques (Python pour corriger), préfère le côté "gain de temps" au côté "récupérer ma vie perso", sera convaincu par la démo technique + ROI mathématique, pricing moins sensible.
+## Emotional Core
 
-Voice of Customer : "Combien de temps ça me fait gagner par session ?" / "C'est fiable sur les QCM ?" / "J'intègre avec Pronote facilement ?"
-"""
+Le prof achète pas un logiciel. Il achète :
+- **Sa soirée du mardi**
+- **Son samedi après-midi**
+- **Le match de son fils**
+- **Le dîner en famille sans PC à côté**
+- **Son couple qui le regarde différemment**
+- **Son identité de prof, pas de secrétaire**
 
-Marketing angles
-"""
-# 🧱 Brick 3 — Marketing Angles (Copie Express)
+## Magic Phrases (à utiliser en variation)
 
-## 🎯 Angle 1 — PRÉDÉFINI
-"Rends tes soirées à tes enfants"
-- Pain : Douleur #1 (vie perso)
-- Promesse : "Récupère 3h par session d'éval nationale pour être avec tes enfants au lieu de cliquer"
-- Preuve : Témoignages "j'ai pu aller au match de foot de mon fils mardi soir"
-- CTA : "Essaie 10 copies gratuites, sans CB"
+- "Redeviens un prof. Pas une machine à cliquer."
+- "Brevet blanc. 90 copies. Terminé."
+- "Tu photographies ta pile. 30 secondes. C'est fait."
+- "Tu vas au match de ton fils samedi ?"
+- "Ta femme te regarde. Tu détournes les yeux. Ou tu fermes l'ordi."
+- "Tu es prof. Pas secrétaire."
 
-## 🎯 Angle 2 — PRÉDÉFINI
-"Les évaluations nationales en 30 secondes, pas en 3 heures"
-- Pain : Douleur #2 (saisie admin)
-- Promesse : "Tu scannes tes 90 copies d'éval CM2, je remplis SACoche à ta place"
-- Preuve : Démo avant/après en vidéo
-- CTA : "Teste sur tes prochaines éval, sans engagement"
+## Ready for Next Steps
 
-## 🎯 Angle 3 — PRÉDÉFINI
-"Marre de corriger le weekend ? Garde-le pour toi."
-- Pain : Douleur #1 + #3 (récupération weekend)
-- Promesse : "Je m'occupe de la saisie, tu profites de ton samedi"
-- Preuve : "Pour la première fois en 8 ans, j'ai fait un brunch dimanche"
-- CTA : "Essaie ce weekend, sans CB"
+Dis-moi maintenant ce que tu veux que je fasse :
+1. Rédiger des ad hooks (Meta Ads)
+2. Écrire des scripts TikTok
+3. Composer une séquence cold email
+4. Créer une landing page
+5. Écrire un script VSL
+6. Générer des headlines A/B test
+7. Rédiger une FAQ
+8. Composer des posts LinkedIn / Facebook
 
-## 🎯 Angle 4 — SECONDAIRE (Marc)
-"OCR Mistral + LLM : 99% de fiabilité sur les QCM"
-- Pain : peur technique
-- Promesse : "Test sur 1000 copies réelles : 99.2% de précision sur QCM"
-- CTA : "Test sur tes copies"
+Prêt à attaquer ?
 
-## 🎯 Angle 5 — SECONDAIRE (objection prix)
-"1 café par jour pour récupérer tes soirées"
-- Pain : Objection #4 prix
-- Promesse : "10€/mois = 0.33€/jour = 1 café"
-- Preuve : ROI "12h/an × 0.83€/h < 1 café"
-- CTA : "10€/mois, résiliable"
+## ⚠️ Règle d'or en toute occasion
 
-## 🎯 Angle 6 — SECONDAIRE (objection temps)
-"Setup en 5 minutes, pas de formation"
-- Pain : Objection #1 temps
-- Promesse : "Tu uploades, tu valides, c'est fait"
-- Preuve : Vidéo 90 sec
-- CTA : "Essaie maintenant"
-
-## 🎯 Angle 7 — SECONDAIRE (peur remplacement)
-"Tu gardes le contrôle, je remplis juste les cases"
-- Pain : Objection #3 peur remplacement
-- Promesse : "Tu valides chaque copie en 30 sec, la note finale c'est toi"
-- Preuve : Capture interface
-- CTA : "Teste sans risque"
-"""
-
-General copywriting framework
-
-Use the Voice of Customer language from the persona. Every word must sound like a French teacher talking to another French teacher, NOT a marketer talking to a prospect.
-
-**Framework LBC (Lead-Bridge-Close) :**
-1. **Lead (Hook)** : Open with a pain or curiosity that mirrors what the prospect feels or wonders
-2. **Bridge (Story/Proof)** : Build trust by sharing a story, testimonial, or data point
-3. **Close (CTA)** : Clear, low-friction, specific action
-
-**Rules :**
-- Tu/vous : Tutoiement always (rapproche, conversationnel)
-- Contractions : "c'est", "t'as", "tu vas" (FR spoken, pas literary)
-- Phrases courtes : max 15 mots par phrase
-- Paragraphes : max 3 lignes
-- Espaces blancs généreux
-- 1 CTA par message
-- Langage VOC exact, pas de jargon marketing ("innovation", "révolutionnaire", "optimal")
-
-Writing rules
-
-**Conversational French, jamais literary ou corporate.**
-- Utilise "tu" partout
-- Contractions : c'est, t'as, tu vas, j'ai, etc.
-- Phrases courtes (max 15 mots)
-- Emojis rares (1 par message max, cohérent)
-- JAMAIS de mots anglais (sauf jargon métier accepté : "scoring", "feedback")
-- JAMAIS de jargon tech (OCR, LLM, API, etc.)
-- JAMAIS de "IA" en titre ou headline (peur du remplacement)
-- Langage VOC exact des profs français
+NE JAMAIS mentionner "IA" / "OCR" / "GPT" / "Mistral" dans le copy public.
+Toujours parler du BÉNÉFICE ("tu photographies ta pile", "tu valides 30 sec"), jamais du MOYEN.
 ```
