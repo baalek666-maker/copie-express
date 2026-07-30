@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Copie Express — Redirect</title>
+    <meta http-equiv="refresh" content="0; url=landing-page/">
+    <link rel="canonical" href="landing-page/">
+    <style>
+        body {
+            margin: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            font-family: 'Inter', sans-serif;
+            background: hsl(0 0% 100%);
+            color: hsl(240 10% 4%);
+        }
+        .redirect-message {
+            text-align: center;
+        }
+        .spinner {
+            width: 32px;
+            height: 32px;
+            border: 3px solid hsl(240 6% 90%);
+            border-top-color: hsl(12 76% 60%);
+            border-radius: 50%;
+            animation: spin 0.8s linear infinite;
+            margin: 0 auto 24px;
+        }
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+        a {
+            color: hsl(12 76% 60%);
+            text-decoration: none;
+            font-weight: 500;
+        }
+    </style>
+</head>
+<body>
+    <div class="redirect-message">
+        <div class="spinner"></div>
+        <p>Redirection vers <a href="landing-page/">Copie Express</a>...</p>
+    </div>
+</body>
+</html>
